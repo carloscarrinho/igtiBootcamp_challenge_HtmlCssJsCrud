@@ -4,6 +4,12 @@ The objective was create and interface to register users using only HTML, CSS an
 
 This challenge did not ask for advanced CSS practices, but I thought it would be nice to create a good looking interface, so I've made some styles upgrades and the possibility to switch to the dark theme.
 
+
+## Output
+
+![Challenge output](https://github.com/carloscarrinho/igtiBootcamp_challenge_HtmlCssJsCrud/blob/master/Challenge01.gif)
+
+
 ## Light Theme
 
 ![Light Theme](https://github.com/carloscarrinho/igtiBootcamp_challenge_HtmlCssJsCrud/blob/master/Challenge01_Light.png)
